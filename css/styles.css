@@ -1,0 +1,12 @@
+body {
+  background-color: lightgreen;
+}
+h1 {
+  color: mediumseagreen;
+}
+p {
+  color: blue;
+}
+table, th, td {
+  border:1px solid black;
+}
